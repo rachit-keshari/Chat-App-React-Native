@@ -2,8 +2,8 @@
 
 Built a chat app in React-Native, Expo CLI, used firebase as backend, native-base for UI design.
 
-![alt text](https://github.com/rachit-keshari/Chat-App-React-Native/blob/main/screenshots/chat-01.gif)
-![alt text](https://github.com/rachit-keshari/Chat-App-React-Native/blob/main/screenshots/chat-00.gif)
+![chat-UI](https://github.com/rachit-keshari/Chat-App-React-Native/blob/main/screenshots/chat-01.gif)
+![chat-room](https://github.com/rachit-keshari/Chat-App-React-Native/blob/main/screenshots/chat-00.gif)
 
 
 ## Requirements
